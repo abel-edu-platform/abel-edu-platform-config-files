@@ -1,0 +1,4 @@
+profile=dev-application-monitoring-manager-develop
+
+turbine.app-config=user-register-config-develop,user-login-config-develop
+turbine.cluster-name-expression="'default'"
